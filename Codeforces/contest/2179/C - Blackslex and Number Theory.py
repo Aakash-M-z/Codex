@@ -15,3 +15,4 @@ for _ in range(int(input())):
     if c > r:
         r = c
     print(r)
+    
